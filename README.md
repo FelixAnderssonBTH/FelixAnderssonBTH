@@ -1,5 +1,5 @@
 
-I'm a fifth-year Cybersecurity Engineering student at **Blekinge Institute of Technology**
+Hello :)
 ---
 
 ![Felix's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixAnderssonBTH&theme=vision-friendly-dark&show_icons=true&hide_border=true_width="400")
